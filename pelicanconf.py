@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Adebayo'
-SITENAME = 'Data Science Simple Acticles 2.0'
+SITENAME = 'Data Science Simple Articles 2.0'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,9 +25,9 @@ LINKS = (('Apache Spark', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),)
 
 # Social widget
-SOCIAL = (('http://lnkd.in/bBXRXz', 'Linkedln'),
-          ('https://github.com/aakinlalu', 'Github'),
-          ('https://twitter.com/Akinlalu','Twitter'),)
+SOCIAL = (('Linkedln','http://lnkd.in/bBXRXz'),
+          ('Github','https://github.com/aakinlalu'),
+          ('Twitter','https://twitter.com/Akinlalu'),)
 
 DEFAULT_PAGINATION = 5
 
